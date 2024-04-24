@@ -1,0 +1,14 @@
+C:\Proyectos\colegio\Colegio.Api\DB\bin\Debug\net8.0\DB.deps.json
+C:\Proyectos\colegio\Colegio.Api\DB\bin\Debug\net8.0\DB.runtimeconfig.json
+C:\Proyectos\colegio\Colegio.Api\DB\bin\Debug\net8.0\DB.dll
+C:\Proyectos\colegio\Colegio.Api\DB\bin\Debug\net8.0\DB.pdb
+C:\Proyectos\colegio\Colegio.Api\DB\obj\Debug\net8.0\DB.csproj.AssemblyReference.cache
+C:\Proyectos\colegio\Colegio.Api\DB\obj\Debug\net8.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\colegio\Colegio.Api\DB\obj\Debug\net8.0\DB.AssemblyInfoInputs.cache
+C:\Proyectos\colegio\Colegio.Api\DB\obj\Debug\net8.0\DB.AssemblyInfo.cs
+C:\Proyectos\colegio\Colegio.Api\DB\obj\Debug\net8.0\DB.csproj.CoreCompileInputs.cache
+C:\Proyectos\colegio\Colegio.Api\DB\obj\Debug\net8.0\DB.dll
+C:\Proyectos\colegio\Colegio.Api\DB\obj\Debug\net8.0\refint\DB.dll
+C:\Proyectos\colegio\Colegio.Api\DB\obj\Debug\net8.0\DB.pdb
+C:\Proyectos\colegio\Colegio.Api\DB\obj\Debug\net8.0\DB.genruntimeconfig.cache
+C:\Proyectos\colegio\Colegio.Api\DB\obj\Debug\net8.0\ref\DB.dll

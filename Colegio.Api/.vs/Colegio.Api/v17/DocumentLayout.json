@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Proyectos\\colegio\\Colegio.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7401D720-82D6-40B3-9339-AEA0805D5C5B}|Colegio.Api\\Colegio.Api.csproj|c:\\proyectos\\colegio\\colegio.api\\colegio.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7401D720-82D6-40B3-9339-AEA0805D5C5B}|Colegio.Api\\Colegio.Api.csproj|solutionrelative:colegio.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7401D720-82D6-40B3-9339-AEA0805D5C5B}|Colegio.Api\\Colegio.Api.csproj|c:\\proyectos\\colegio\\colegio.api\\colegio.api\\controllers\\maestrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7401D720-82D6-40B3-9339-AEA0805D5C5B}|Colegio.Api\\Colegio.Api.csproj|solutionrelative:colegio.api\\controllers\\maestrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7401D720-82D6-40B3-9339-AEA0805D5C5B}|Colegio.Api\\Colegio.Api.csproj|c:\\proyectos\\colegio\\colegio.api\\colegio.api\\controllers\\gruposcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7401D720-82D6-40B3-9339-AEA0805D5C5B}|Colegio.Api\\Colegio.Api.csproj|solutionrelative:colegio.api\\controllers\\gruposcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7401D720-82D6-40B3-9339-AEA0805D5C5B}|Colegio.Api\\Colegio.Api.csproj|c:\\proyectos\\colegio\\colegio.api\\colegio.api\\controllers\\materiasmaestrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7401D720-82D6-40B3-9339-AEA0805D5C5B}|Colegio.Api\\Colegio.Api.csproj|solutionrelative:colegio.api\\controllers\\materiasmaestrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7401D720-82D6-40B3-9339-AEA0805D5C5B}|Colegio.Api\\Colegio.Api.csproj|c:\\proyectos\\colegio\\colegio.api\\colegio.api\\controllers\\alumnoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7401D720-82D6-40B3-9339-AEA0805D5C5B}|Colegio.Api\\Colegio.Api.csproj|solutionrelative:colegio.api\\controllers\\alumnoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D6FFC2-7323-4177-A30D-3A2D4C3E476C}|DB\\DB.csproj|c:\\proyectos\\colegio\\colegio.api\\db\\materiamaestro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D6FFC2-7323-4177-A30D-3A2D4C3E476C}|DB\\DB.csproj|solutionrelative:db\\materiamaestro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D6FFC2-7323-4177-A30D-3A2D4C3E476C}|DB\\DB.csproj|c:\\proyectos\\colegio\\colegio.api\\db\\colegiocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D6FFC2-7323-4177-A30D-3A2D4C3E476C}|DB\\DB.csproj|solutionrelative:db\\colegiocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Proyectos\\colegio\\Colegio.Api\\Colegio.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Colegio.Api\\appsettings.json",
+              "ToolTip": "C:\\Proyectos\\colegio\\Colegio.Api\\Colegio.Api\\appsettings.json",
+              "RelativeToolTip": "Colegio.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-24T17:54:18.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MateriaMaestro.cs",
+              "DocumentMoniker": "C:\\Proyectos\\colegio\\Colegio.Api\\DB\\MateriaMaestro.cs",
+              "RelativeDocumentMoniker": "DB\\MateriaMaestro.cs",
+              "ToolTip": "C:\\Proyectos\\colegio\\Colegio.Api\\DB\\MateriaMaestro.cs",
+              "RelativeToolTip": "DB\\MateriaMaestro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T02:34:20.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MateriasMaestroController.cs",
+              "DocumentMoniker": "C:\\Proyectos\\colegio\\Colegio.Api\\Colegio.Api\\Controllers\\MateriasMaestroController.cs",
+              "RelativeDocumentMoniker": "Colegio.Api\\Controllers\\MateriasMaestroController.cs",
+              "ToolTip": "C:\\Proyectos\\colegio\\Colegio.Api\\Colegio.Api\\Controllers\\MateriasMaestroController.cs",
+              "RelativeToolTip": "Colegio.Api\\Controllers\\MateriasMaestroController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T23:38:31.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AlumnosController.cs",
+              "DocumentMoniker": "C:\\Proyectos\\colegio\\Colegio.Api\\Colegio.Api\\Controllers\\AlumnosController.cs",
+              "RelativeDocumentMoniker": "Colegio.Api\\Controllers\\AlumnosController.cs",
+              "ToolTip": "C:\\Proyectos\\colegio\\Colegio.Api\\Colegio.Api\\Controllers\\AlumnosController.cs",
+              "RelativeToolTip": "Colegio.Api\\Controllers\\AlumnosController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAUwEgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T15:18:07.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MaestroController.cs",
+              "DocumentMoniker": "C:\\Proyectos\\colegio\\Colegio.Api\\Colegio.Api\\Controllers\\MaestroController.cs",
+              "RelativeDocumentMoniker": "Colegio.Api\\Controllers\\MaestroController.cs",
+              "ToolTip": "C:\\Proyectos\\colegio\\Colegio.Api\\Colegio.Api\\Controllers\\MaestroController.cs",
+              "RelativeToolTip": "Colegio.Api\\Controllers\\MaestroController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T23:11:18.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GruposController.cs",
+              "DocumentMoniker": "C:\\Proyectos\\colegio\\Colegio.Api\\Colegio.Api\\Controllers\\GruposController.cs",
+              "RelativeDocumentMoniker": "Colegio.Api\\Controllers\\GruposController.cs",
+              "ToolTip": "C:\\Proyectos\\colegio\\Colegio.Api\\Colegio.Api\\Controllers\\GruposController.cs",
+              "RelativeToolTip": "Colegio.Api\\Controllers\\GruposController.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAUwFgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T16:04:09.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ColegioContext.cs",
+              "DocumentMoniker": "C:\\Proyectos\\colegio\\Colegio.Api\\DB\\ColegioContext.cs",
+              "RelativeDocumentMoniker": "DB\\ColegioContext.cs",
+              "ToolTip": "C:\\Proyectos\\colegio\\Colegio.Api\\DB\\ColegioContext.cs",
+              "RelativeToolTip": "DB\\ColegioContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T22:20:09.959Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
